@@ -1,4 +1,4 @@
-# 📌 Fluxograma de Qualidade de Software – Time de Interação
+# 📌 Fluxograma de Qualidade de Software 
 
 📸 [Fluxograma de Qualidade](./fluxograma-qualidade.png)
 
